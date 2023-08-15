@@ -1,0 +1,1 @@
+# JAVA_JPA_USE_1
